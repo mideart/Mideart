@@ -1,6 +1,8 @@
-### Hi there 👋
-
-![My Image](readmeHeader.jpeg)
+<img
+  src="readmeHeader.jpeg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;">
 
 <!--
 **mideart/Mideart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
